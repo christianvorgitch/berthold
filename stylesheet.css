@@ -1,0 +1,20 @@
+.carousel-inner {
+    position: relative;    
+    
+}
+
+.cityTitle {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    z-index: 1;
+    color: white;
+    transform: translate(-50%,-50%);
+    font-family: 'Montserrat';
+    font-size: 5vw;
+}
+
+
+.slide {
+    opacity: 0.8;
+}
